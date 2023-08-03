@@ -3,7 +3,7 @@ import AppliedJobs from "./components/AppliedJobs";
 import JobList from "./components/JobList";
 import Navbar from "./components/Navbar";
 import { jobs } from "./components/data/data";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import FeaturedCompanies from "./components/FeaturedCompanies";
 
 function App() {
